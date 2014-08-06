@@ -1,0 +1,18 @@
+{
+  "name": "noted-notes",
+  "version": "0.0.0",
+  "description": "notes api for noted-app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eduardo Sorribas <eduardo@sorribas.org> (http://sorribas.org/)",
+  "license": "MIT",
+  "dependencies": {
+    "root": "^0.7.1",
+    "noted-session": "0.0.2",
+    "noted-db": "^0.1.0",
+    "seaport": "^2.0.8",
+    "param": "^1.0.1"
+  }
+}
